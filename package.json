@@ -1,0 +1,10 @@
+{
+"name": "PerfectTemplate",
+"dependencies": [
+		{
+			"url": "https://github.com/PerfectlySoft/Perfect-HTTPServer.git",
+			"cache": "/private/var/perfect/Perfect-HTTPServer",
+			"majorVersion": 3
+		}
+	]
+}
